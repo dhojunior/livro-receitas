@@ -2,5 +2,6 @@
 
 Olá! Bem vindo ao meu livro de receitas.
 
+- Pavê de BIS
 - Strogonoff de frango
 - Tortinha de brigadeiro
